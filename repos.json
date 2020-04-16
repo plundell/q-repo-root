@@ -1,26 +1,35 @@
 {
   "q-repo":{
     "name":"Q Repo"
-    ,"description":"Contains apps made or commissioned by Q Music Player AB (https://qmusicplayer.com)"
+    ,"type":"repo"
+    ,"description":"Contains apps made or commissioned by Q Music Player AB (https://qmusicplayer.com)."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"homepage":"https://github.com/plundell/q-repo"
-    ,"download":"https://github.com/plundell/q-repo/archive/v1.0.3.zip"
-    ,"sha256":""
+    ,"git":{
+      "owner":"plundell"
+      ,"repo":"q-repo"
+    }
+
   }
   ,"q-repo-official":{
     "name":"Q Official Repo"
-    ,"description":"Contains apps published by verified (by maintainer) legal entities"
+    ,"type":"repo"
+    ,"description":"Contains 3rd party apps published by verified (by us) legal entities."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"homepage":"https://github.com/plundell/q-repo-official"
-    ,"download":"https://github.com/plundell/q-repo-official/archive/v1.0.3.zip"
-    ,"sha256":""
+    ,"git":{
+      "owner":"plundell"
+      ,"repo":"q-repo-official"
+    }
+
   }
-  ,"q-repo-public":{
-    "name":"Q Public Repo"
-    ,"description":"Contains unverfieid apps published by anyone"
+  ,"q-repo-unofficial":{
+    "name":"Q Unofficial Repo"
+    ,"type":"repo"
+    ,"description":"Contains 3rd party apps published by anyone without any verification or restriction. Apps here may blow up the world."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"homepage":"https://github.com/plundell/q-repo-public"
-    ,"download":"https://github.com/plundell/q-repo-public/archive/v1.0.3.zip"
-    ,"sha256":""
+    ,"git":{
+      "owner":"plundell"
+      ,"repo":"q-repo-unofficial"
+    }
+
   }
 }
