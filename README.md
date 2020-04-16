@@ -7,17 +7,15 @@ This is a list-of-repos available for install by default on a new un-configured 
 All included repos are listed in [repos.json](./repos.json). The ones maintained by us are:
  * [q-repo](https://github.com/plundell/q-repo) - Only contains apps made by us.
  * [q-repo-official](https://github.com/plundell/q-repo-official) - For legal entities wishing to publish their **official** apps
- * [q-repo-public](https://github.com/plundell/q-repo-public) - *Anybody* can add *any* app to this repo. Use at own perill.
+ * [q-repo-unofficial](https://github.com/plundell/q-repo-unofficial) - *Anybody* can add *any* app to this repo. Use at own perill.
 
 
 ## 3rd Party Apps
 Users can install any app they please on their Q, either by providing a direct download link for said app, or by searching/browsing a repo they've previously added, ie. if you're a developer you need to get that information to the user somehow, you could:
-#### Add your repo to this list-of-repos
-1. Fork
-2. Change repos.json
-3. Make a pull request
 
-#### Add your app to one of the repos listed here
-1. Choose a [repo](#repos) and follow it's individual instructions
+a) Add your repo to this list-of-repos by [emailing us](mailto:qmusicplayer@protonmail.com)  
+b) Add your app to one of the repos listed here, again by [emailing us](mailto:qmusicplayer@protonmail.com)
+
+A more sofisticated system of submission is on our todo list.
 
 
