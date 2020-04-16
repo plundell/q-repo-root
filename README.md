@@ -13,8 +13,8 @@ All included repos are listed in [repos.json](./repos.json). The ones maintained
 ## 3rd Party Apps
 Users can install any app they please on their Q, either by providing a direct download link for said app, or by searching/browsing a repo they've previously added, ie. if you're a developer you need to get that information to the user somehow, you could:
 
-a) Add your repo to this list-of-repos by [emailing us](mailto:qmusicplayer@protonmail.com)  
-b) Add your app to one of the repos listed here, again by [emailing us](mailto:qmusicplayer@protonmail.com)
+**a)** Add your repo to this list-of-repos by [emailing us](mailto:qmusicplayer@protonmail.com)  
+**b)** Add your app to one of the repos listed here, again by [emailing us](mailto:qmusicplayer@protonmail.com)
 
 A more sofisticated system of submission is on our todo list.
 
