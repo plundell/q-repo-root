@@ -7,7 +7,7 @@ This is a list-of-repos available for install by default on a new un-configured 
 All included repos are listed in [repos.json](./repos.json). The ones maintained by us are:
  * [q-repo](https://github.com/plundell/q-repo) - Only contains apps made by us.
  * [q-repo-official](https://github.com/plundell/q-repo-official) - For legal entities wishing to publish their **official** apps
- * [q-repo-unofficial](https://github.com/plundell/q-repo-unofficial) - *Anybody* can add *any* app to this repo. Use at own perill.
+ * [q-repo-unofficial](https://github.com/plundell/q-repo-unofficial) - *Anybody* can add *any* app to this repo. Use at own peril.
 
 
 ## 3rd Party Apps
