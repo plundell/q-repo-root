@@ -4,9 +4,7 @@
     ,"type":"repo"
     ,"description":"Contains apps made or commissioned by Q Music Player AB (https://qmusicplayer.com)."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"git":{
-      "owner":"plundell"
-      ,"repo":"q-repo"
+    ,"git":"plundell/q-repo"
     }
 
   }
@@ -15,9 +13,7 @@
     ,"type":"repo"
     ,"description":"Contains 3rd party apps published by verified (by us) legal entities."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"git":{
-      "owner":"plundell"
-      ,"repo":"q-repo-official"
+    ,"git":"plundell/q-repo-official"
     }
 
   }
@@ -26,9 +22,7 @@
     ,"type":"repo"
     ,"description":"Contains 3rd party apps published by anyone without any verification or restriction. Apps here may blow up the world."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"git":{
-      "owner":"plundell"
-      ,"repo":"q-repo-unofficial"
+    ,"git":"plundell/q-repo-unofficial"
     }
 
   }
