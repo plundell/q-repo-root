@@ -5,9 +5,10 @@ This is a repo-of-repos available for install by default on a new un-configured 
 
 ## Repos
 All included repos are listed in [repos.json](./repos.json). The ones maintained by us are:
- * [q-repo](https://github.com/plundell/q-repo) - Only contains apps made by us - **1st party**.
- * [q-repo-official](https://github.com/plundell/q-repo-official) - For legal entities wishing to publish their **official** apps - **3rd party**
- * [q-repo-unofficial](https://github.com/plundell/q-repo-unofficial) - *Anybody* can add *any* app to this repo. Use at own peril - **3rd party**
+
+ * [q-repo](https://github.com/plundell/q-repo) - Only contains apps made by us.
+ * [q-repo-official](https://github.com/plundell/q-repo-official) - For **3rd party** legal entities wishing to publish their **official** apps.
+ * [q-repo-unofficial](https://github.com/plundell/q-repo-unofficial) - *Anybody* can add *any* **3rd party** apps to this repo. Use at own peril!
 
 
 ## 3rd Party Apps
