@@ -1,13 +1,13 @@
-# Q Music Player Main Repos
-This is a list-of-repos available for install by default on a new un-configured <a href="https://qmusicplayer.com" target="_blank">Q Music Player</a>. Each entry on this list is a *repo*. A repo in turn is a list of *apps* available for the Q. Each app-entry contains information about an app and a *direct download link* which can point to anywhere (local, intranet, internet...). Our goal at Q is to give the power back to the end user, to which end you can install [3rd party apps](#3rd-party-apps).
+# Q Music Player Root Repo
+This is a repo-of-repos available for install by default on a new un-configured <a href="https://qmusicplayer.com" target="_blank">Q Music Player</a>. Each entry on this list is a *repo*. A repo in turn is a list of *apps* available for the Q. Each app-entry contains information about an app and a *direct download link* which can point to anywhere (local, intranet, internet...). 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 ## Repos
 All included repos are listed in [repos.json](./repos.json). The ones maintained by us are:
- * [q-repo](https://github.com/plundell/q-repo) - Only contains apps made by us.
- * [q-repo-official](https://github.com/plundell/q-repo-official) - For legal entities wishing to publish their **official** apps
- * [q-repo-unofficial](https://github.com/plundell/q-repo-unofficial) - *Anybody* can add *any* app to this repo. Use at own peril.
+ * [q-repo](https://github.com/plundell/q-repo) - Only contains apps made by us - **1st party**.
+ * [q-repo-official](https://github.com/plundell/q-repo-official) - For legal entities wishing to publish their **official** apps - **3rd party**
+ * [q-repo-unofficial](https://github.com/plundell/q-repo-unofficial) - *Anybody* can add *any* app to this repo. Use at own peril - **3rd party**
 
 
 ## 3rd Party Apps
