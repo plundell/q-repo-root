@@ -4,23 +4,20 @@
     ,"type":"repo"
     ,"description":"Contains apps made or commissioned by Q Music Player AB (https://qmusicplayer.com)."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"source":"github"
-    ,"target":"plundell/q-repo"
+    ,"target":"github:plundell/q-repo"
   }
   ,"q-repo-official":{
     "name":"Q Official Repo"
     ,"type":"repo"
     ,"description":"Contains 3rd party apps published by verified (by us) legal entities."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"source":"github"
-    ,"target":"plundell/q-repo-official"
+    ,"target":"github:plundell/q-repo-official"
   }
   ,"q-repo-unofficial":{
     "name":"Q Unofficial Repo"
     ,"type":"repo"
     ,"description":"Contains 3rd party apps published by anyone without any verification or restriction. Apps here may blow up the world."
     ,"maintainer":"Q Music Player AB <qmusicplayer@protonmail.com>"
-    ,"source":"github"
-    ,"target":"plundell/q-repo-unofficial"
+    ,"target":"github:plundell/q-repo-unofficial"
   }
 }
